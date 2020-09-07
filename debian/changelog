@@ -1,3 +1,10 @@
+nymea-qtcreator-wizards (0.0.9) xenial; urgency=medium
+
+  [ Michael Zanetti ]
+  * Add qtcreator to recommends
+
+ -- Jenkins <jenkins@nymea.io>  Mon, 07 Sep 2020 21:39:30 +0200
+
 nymea-qtcreator-wizards (0.0.8) xenial; urgency=medium
 
   [ Michael Zanetti ]
